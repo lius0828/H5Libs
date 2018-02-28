@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_to_left.xml",
+        "source": "I:\\androidStudio\\YGI\\easeui\\src\\main\\res\\anim\\slide_out_to_left.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\push_top_out2.xml",
+        "source": "I:\\androidStudio\\YGI\\easeui\\src\\main\\res\\anim\\push_top_out2.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_from_right.xml",
+        "source": "I:\\androidStudio\\YGI\\easeui\\src\\main\\res\\anim\\slide_in_from_right.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\lius\\.android\\build-cache\\284ddfdf72ba56b463da81bb5f617adaa793e4cb\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\voice_from_icon.xml",
+        "source": "I:\\androidStudio\\YGI\\easeui\\src\\main\\res\\anim\\voice_from_icon.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\fade_in.xml",
+        "source": "I:\\androidStudio\\YGI\\easeui\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\head_out.xml",
+        "source": "I:\\androidStudio\\YGI\\easeui\\src\\main\\res\\anim\\head_out.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\push_top_in2.xml",
+        "source": "I:\\androidStudio\\YGI\\easeui\\src\\main\\res\\anim\\push_top_in2.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\lius\\.android\\build-cache\\284ddfdf72ba56b463da81bb5f617adaa793e4cb\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\fade_out.xml",
+        "source": "I:\\androidStudio\\YGI\\easeui\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\head_in.xml",
+        "source": "I:\\androidStudio\\YGI\\easeui\\src\\main\\res\\anim\\head_in.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\lius\\.android\\build-cache\\284ddfdf72ba56b463da81bb5f617adaa793e4cb\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\lius\\.android\\build-cache\\284ddfdf72ba56b463da81bb5f617adaa793e4cb\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_from_left.xml",
+        "source": "I:\\androidStudio\\YGI\\easeui\\src\\main\\res\\anim\\slide_in_from_left.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_to_right.xml",
+        "source": "I:\\androidStudio\\YGI\\easeui\\src\\main\\res\\anim\\slide_out_to_right.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\lius\\.android\\build-cache\\284ddfdf72ba56b463da81bb5f617adaa793e4cb\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\push_bottom_in.xml",
+        "source": "I:\\androidStudio\\YGI\\easeui\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\push_top_out.xml",
+        "source": "I:\\androidStudio\\YGI\\easeui\\src\\main\\res\\anim\\push_top_out.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\push_bottom_out.xml",
+        "source": "I:\\androidStudio\\YGI\\easeui\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\lius\\.android\\build-cache\\284ddfdf72ba56b463da81bb5f617adaa793e4cb\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\lius\\.android\\build-cache\\284ddfdf72ba56b463da81bb5f617adaa793e4cb\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\lius\\.android\\build-cache\\284ddfdf72ba56b463da81bb5f617adaa793e4cb\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\voice_to_icon.xml",
+        "source": "I:\\androidStudio\\YGI\\easeui\\src\\main\\res\\anim\\voice_to_icon.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\lius\\.android\\build-cache\\284ddfdf72ba56b463da81bb5f617adaa793e4cb\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\push_top_in.xml",
+        "source": "I:\\androidStudio\\YGI\\easeui\\src\\main\\res\\anim\\push_top_in.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\hold.xml",
+        "source": "I:\\androidStudio\\YGI\\easeui\\src\\main\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "I:\\androidStudio\\YGI\\easeui\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\lius\\.android\\build-cache\\284ddfdf72ba56b463da81bb5f617adaa793e4cb\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    }
+]
